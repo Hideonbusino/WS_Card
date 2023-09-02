@@ -1,0 +1,6 @@
+This code takes images of WS cards, identifies its name, then searches and deduces a market price for the card
+
+The functions in getid.py does the image processing and uses selinium to obtain the serial number of the card
+
+The functions in price.py then searches for market price from Mercari JP
+
